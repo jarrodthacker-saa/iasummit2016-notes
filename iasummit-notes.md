@@ -4,7 +4,7 @@
 
 ### On being more inclusive in the makerspace
 
-> "Engineer inclusivity into the hearts and bones (of the web)"
+> *"Engineer inclusivity into the hearts and bones (of the web)"*
   - we're failing at this so far in the maker community
 
 - As much as you're trying to create meaningful experiences for people online, it all looks the same to me (talking about how we deal with identity)
@@ -96,10 +96,37 @@ or
     - Learns practices and predictably get good outcomes
   - _Conscious Competence_ – you can produce good outcomes at a good level
    - you know what the rules are. you can use patterns to be consistent
-  - _Unconsciously competent_ – comprehensive knowledge and craftsmanship for intuitive work
-  (able to ask the right questions no one else asked, then find a soultion no one else could have)
+  - _Unconsciously competent_ – comprehensive knowledge and craftsmanship for intuitive work (able to ask the right questions no one else asked, then find a soultion no one else could have)
     - intuitively good product quality w/o explicit thought
+
+  ![Photo of slide showing the Growth Stages of Learning, along with the Inflections points w/ examples](growth_stages.jpg "Slide describing stages of growth")
   
+##### Literacy plays
+  - Start a usability testing program
+  - Teach team to conduct usability testing
+  - Socialize journey maps.
+  - Start an immerse exposure program
+  - Conduct a UI inventory
+  - Integrate story mapping into Agile
+  - Deconstruct design differences
+  
+ ##### Fluency plays
+- Get secondary influenceers into projects early
+- Create a UI controlled vocabulary
+- Create a voice and tone guide
+- Create feature-level personas
+- Adopt LeanUX practices
+- Conduct regular design studios
+- Adopt mini creative briefs
+
+##### Mastery plays
+- Create themed roadmaps
+- Adopt a customer-driven user research
+- Integrate end-to-end service design
+- Integrate CX with UX practices
+- Dedicate UX team to improving UX process
+- Eliminate UX-based psition titles (D:)
+
 > Dana's challenge was to get 120 people "consciously competent"
   - The mechanism for this is getting to _Consciously Incompetent_, is "literacy"
   - Getting from CI to CC is "fluency"
@@ -112,10 +139,10 @@ or
 - She had all 120 of her team members go out into the field and talk and meet the field reps that are processing apps and watch them for a day.
   - after this immersive exposure program, found that they started making better user stories based on observations, not their imaginations
   
-> - Cyd Harrell is working with _Code for America_
+- Cyd Harrell is working with _Code for America_
   - She runs a usability test exercise with an activity to make an origami giraffe (which is coupled with poor instructions) to teach basic usability testing techniques
 
-> - Bill Scott, _Paypal, Project Hermes_
+- Bill Scott, _Paypal, Project Hermes_
   - Started with Lean UX methodology, they worked on their next generation checkout experience and finished in 10 weeks
   - This was a CC play to improve team fluency
 
@@ -152,7 +179,7 @@ or
 - For UX designers, give the reasons and research for your reasons
 - For devs, allow multiple way to test out components
 
-*Don't design for yourself, but everyone in your org that will use it*
+*Don't design for yourself, but for everyone in your org that will use it*
 
 ## REMOTELY AGILE? EFFECTIVE INTERACTION WITH DISTRIBUTED AGILE TEAMS | Dorinne Hammons, Kelsey-Seybold Clinics
 In order for Agile to grow, it has to be able to adapt to remoteness
@@ -226,12 +253,15 @@ _ What we know about what we know, and how we Learning
 
 # IA Summit 2016 Day 2
 
-## IA in Agile | Hannah Grossman, The Nerdery
+## IA IN AGILE | Hannah Grossman, The Nerdery
 
 - The ideology presented through Agile development principles can be interpreted in ways that hinder informed designs
 > Ex. The emphasis of "Working Software Over Comprehensive Documentation" preventing big picture ideas (Sprint 0)
 
 - Balancing vision with action is difficult.
+### Scrum Framework
+Basically you find yourself working from the backlog most of the time?
+![Photo of diagram describing Scrum process](ux-scrum.jpg "Photo of diagram describing Scrum process")
 
 ### How to make IA and Agile play together more nicely
 1. Flexible definitions of agile principles
@@ -239,6 +269,7 @@ _ What we know about what we know, and how we Learning
 3. Sharing the big picture with others
 4. Learning to recognize "good enough" (for now)
 5. Not being afraid to rework things.
+
 
 ---
 
