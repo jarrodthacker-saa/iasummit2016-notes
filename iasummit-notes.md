@@ -160,9 +160,11 @@ or
 
 ### Impetus behind U.S. Web Design standards 
 - We needed a consistent experience across all federal touch-points
-> "PLOTUS" = "Pattern Library of the United States"
 - Need to componentize things - make them reusable and easier-to-use
 - Allowing it to be found, easily accessible
+
+> "PLOTUS" = "Pattern Library of the United States"
+[U.S. Web Design Standards] (https://standards.usa.gov/ "US. Web Design Standards")
 
 ### Reality of designer/dev using a style guide/repo
   1. Find the things 
